@@ -1,5 +1,3 @@
-import functools
-import re
 from os import path
 
 import sublime
